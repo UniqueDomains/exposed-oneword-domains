@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .EXPOSED one-word domains still available to buy.
 
-This dataset contains 9,616 .EXPOSED one word domains with availability, attractiveness and demand scores.
+This dataset contains 9,615 .EXPOSED one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.EXPOSED one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=exposed-oneword-domains&utm_content=description.top) (9,616) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.EXPOSED one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
