@@ -76,7 +76,7 @@ print(df.head())
 | creator.exposed   | available | $25.99    | $27.99        | 70             | 45     | 7      | name.com         |
 | fake.exposed      | resell    | —         | —             | 84             | 32     | 4      | Name.com, Inc.   |
 | business.exposed  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap        |
-| forge.exposed     | available | $25.99    | $27.99        | 62             | 45     | 5      | name.com         |
+| forge.exposed     | available | $25.99    | $27.99        | 62             | 44     | 5      | name.com         |
 | interview.exposed | resell    | —         | —             | 92             | 29     | 9      | Porkbun LLC      |
 | one.exposed       | premium   | $500      | $500          | 132            | 50     | 3      | name.com         |
 | wizard.exposed    | available | $25.99    | $27.99        | 118            | 43     | 6      | name.com         |
