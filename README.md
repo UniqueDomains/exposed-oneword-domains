@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .exposed one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $32.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/exposed`  
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,9 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| shortcuts.exposed    | available | $25.99    | —             | 48             | 41     | 10     | name.com  |
+| whynot.exposed       | available | $25.99    | —             | 74             | 44     | 7      | name.com  |
 | Jim.exposed          | premium   | $28       | $28           | 78             | 28     | 3      | namecheap |
-| whynot.exposed       | available | $25.99    | —             | 74             | 39     | 7      | name.com  |
+| shortcuts.exposed    | available | $25.99    | —             | 48             | 41     | 10     | name.com  |
 | has.exposed          | premium   | $25.99    | —             | 60             | 26     | 3      | name.com  |
 | neuroscience.exposed | available | $25.99    | —             | 80             | 37     | 12     | name.com  |
 | toys.exposed         | premium   | $242      | $242          | 60             | 24     | 4      | namesilo  |
@@ -75,9 +75,9 @@ print(df.head())
 | tokens.exposed       | available | $22.49    | $22.49        | 51             | 36     | 6      | namesilo  |
 | girls.exposed        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
 | Cats.exposed         | available | $28.98    | —             | 59             | 33     | 4      | namecheap |
-| children.exposed     | premium   | $123.75   | —             | 68             | 21     | 8      | name.com  |
-| payments.exposed     | available | $25.99    | —             | 58             | 33     | 8      | name.com  |
 | watches.exposed      | premium   | $250      | —             | 84             | 19     | 7      | name.com  |
+| payments.exposed     | available | $25.99    | —             | 58             | 33     | 8      | name.com  |
+| children.exposed     | premium   | $123.75   | —             | 68             | 19     | 8      | name.com  |
 | teams.exposed        | available | $25.99    | —             | 62             | 32     | 5      | name.com  |
 | citizens.exposed     | premium   | $123.75   | —             | 60             | 19     | 8      | name.com  |
 | letsgo.exposed       | available | $25.99    | —             | 57             | 31     | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
