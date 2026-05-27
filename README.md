@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .exposed one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $32.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/exposed`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | citizens.exposed     | premium   | $123.75   | —             | 60             | 19     | 8      | name.com  |
 | letsgo.exposed       | available | $25.99    | —             | 57             | 31     | 7      | name.com  |
 | vitamins.exposed     | premium   | $118.80   | $118.80       | 60             | 17     | 8      | namesilo  |
-| inspiration.exposed  | available | $25.99    | —             | 88             | 30     | 11     | name.com  |
+| blocks.exposed       | available | $25.99    | —             | 53             | 29     | 6      | name.com  |
 | nurses.exposed       | premium   | $23.60    | $23.60        | 54             | 13     | 6      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
