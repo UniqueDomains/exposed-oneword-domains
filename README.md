@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .exposed one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,583 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $32.65 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $33.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/exposed`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/exposed`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EXPOSED one-word doma
 
 ### Files
 
-- `exposed.csv` — public CSV extract (1,000 rows)
-- `exposed.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `exposed.csv`, public CSV extract (1,000 rows)
+- `exposed.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| whynot.exposed       | available | $25.99    | —             | 74             | 44     | 7      | name.com  |
-| Jim.exposed          | premium   | $28       | $28           | 78             | 28     | 3      | namecheap |
-| shortcuts.exposed    | available | $25.99    | —             | 48             | 41     | 10     | name.com  |
-| has.exposed          | premium   | $25.99    | —             | 60             | 26     | 3      | name.com  |
-| neuroscience.exposed | available | $25.99    | —             | 80             | 37     | 12     | name.com  |
-| toys.exposed         | premium   | $242      | $242          | 60             | 24     | 4      | namesilo  |
-| stories.exposed      | available | $25.99    | —             | 58             | 36     | 7      | name.com  |
-| loans.exposed        | premium   | $242      | $242          | 58             | 24     | 5      | namesilo  |
-| tokens.exposed       | available | $22.49    | $22.49        | 51             | 36     | 6      | namesilo  |
-| girls.exposed        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
-| Cats.exposed         | available | $28.98    | —             | 59             | 33     | 4      | namecheap |
-| watches.exposed      | premium   | $250      | —             | 84             | 19     | 7      | name.com  |
-| payments.exposed     | available | $25.99    | —             | 58             | 33     | 8      | name.com  |
-| children.exposed     | premium   | $123.75   | —             | 68             | 19     | 8      | name.com  |
-| teams.exposed        | available | $25.99    | —             | 62             | 32     | 5      | name.com  |
-| citizens.exposed     | premium   | $123.75   | —             | 60             | 19     | 8      | name.com  |
-| letsgo.exposed       | available | $25.99    | —             | 57             | 31     | 7      | name.com  |
-| vitamins.exposed     | premium   | $118.80   | $118.80       | 60             | 17     | 8      | namesilo  |
-| blocks.exposed       | available | $25.99    | —             | 53             | 29     | 6      | name.com  |
-| nurses.exposed       | premium   | $23.60    | $23.60        | 54             | 13     | 6      | namesilo  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bad.exposed   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
+| sorry.exposed | available | $25.99    | $27.99        | high           | low    | 5      | name.com  |
+| bae.exposed   | available | $22.49    | $22.49        | high           | low    | 3      | namesilo  |
+| abc.exposed   | premium   | $26       | $26           | high           | medium | 3      | namecheap |
+| bce.exposed   | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo  |
+| ago.exposed   | premium   | $25.99    | $25           | medium         | low    | 3      | name.com  |
+| kgb.exposed   | available | $22.49    | $22.49        | high           | low    | 3      | namesilo  |
+| xix.exposed   | available | $25.99    | $27.99        | high           | low    | 3      | name.com  |
+| bed.exposed   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| xxv.exposed   | available | $25.99    | $27.99        | medium         | low    | 3      | name.com  |
+| bee.exposed   | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo  |
+| ages.exposed  | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo  |
+| bid.exposed   | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| atop.exposed  | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo  |
+| bug.exposed   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo  |
+| ball.exposed  | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo  |
+| car.exposed   | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap |
+| barn.exposed  | available | $22.49    | $22.49        | high           | low    | 4      | namesilo  |
+| cup.exposed   | premium   | $25.99    | —             | high           | low    | 3      | name.com  |
+| bull.exposed  | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .exposed domains. The extension carries a specific tone: direct, revealing, accusatory, or investigative. That makes fit more important here than with a neutral TLD. Terms like disrespect.exposed, detective.exposed, inform.exposed, and chart.exposed show the range, from editorial and watchdog angles to niche commentary or campaign use. With a median ask of 32.65, entry pricing appears low, but low ask alone does not make a name strong. When comparing these domains, prioritize words that read naturally with .exposed, avoid forced pairings, and be careful with terms that could create trademark or reputational issues in real-world use.
+This set covers one-word .exposed domain names only — no multi-word combinations, no hyphens. Names like messages.exposed, destination.exposed, and WiFi.exposed show the range: common nouns, action phrases, and short recognizable terms. With a median asking price near $34 across 12,583 names, most of this selection is priced for quick acquisition rather than negotiation. Whether the goal is a memorable brand name or a low-cost addition to a domain portfolio, the single-word format keeps each option easy to say, spell, and remember.
 
-- Best fit: words that pair naturally with “exposed”
-- Median ask is 32.65 across 12,583 listed names
-- Direct or investigative terms suit this TLD better
-- Check trademark and reputational risk before buying
+- 12,583 available one-word .exposed domain names
+- Median asking price near $34 across the set
+- Short, everyday words like watches and messages
+- Updated daily to reflect current availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
