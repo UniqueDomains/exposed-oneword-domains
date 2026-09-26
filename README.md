@@ -1,10 +1,10 @@
-# Available .EXPOSED One-Word Domains (32,801)
+# Available .EXPOSED One-Word Domains (23,140)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C801%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C140%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .exposed one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,801 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,140 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,801 domains · **Median ask:** $26.96 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,140 domains · **Median ask:** $29.79 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/exposed`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| ain.exposed       | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                    |
-| virtually.exposed | resell    | —         | —             | high           | low    | 9      | GoDaddy Online Services Cayman Islands Ltd. |
-| abc.exposed       | premium   | $26       | $26           | high           | medium | 3      | namecheap                                   |
-| ana.exposed       | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                    |
-| act.exposed       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                    |
-| bae.exposed       | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                    |
-| bag.exposed       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                    |
-| bce.exposed       | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                    |
-| bed.exposed       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
-| kgb.exposed       | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                    |
-| bee.exposed       | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                    |
-| lxv.exposed       | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo                                    |
-| beg.exposed       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                    |
-| xlv.exposed       | available | $22.49    | $22.49        | high           | low    | 3      | namesilo                                    |
-| bid.exposed       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
-| aery.exposed      | available | $22.49    | $22.49        | high           | low    | 4      | namesilo                                    |
-| bug.exposed       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                    |
-| ages.exposed      | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo                                    |
-| cap.exposed       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                    |
-| airy.exposed      | available | $22.49    | $22.49        | high           | low    | 4      | namesilo                                    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aar.exposed  | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo    |
+| new.exposed  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC |
+| awe.exposed  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| cva.exposed  | available | $22.98    | $28.98        | medium         | low    | 3      | namecheap   |
+| bit.exposed  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
+| ibn.exposed  | available | $25.99    | $27.99        | medium         | low    | 3      | name.com    |
+| die.exposed  | premium   | $25.99    | —             | high           | low    | 3      | name.com    |
+| lxi.exposed  | available | $22.49    | $22.49        | medium         | low    | 3      | namesilo    |
+| feb.exposed  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| plz.exposed  | available | $22.49    | $22.49        | high           | low    | 3      | namesilo    |
+| flu.exposed  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| vhs.exposed  | available | $22.49    | $22.49        | high           | low    | 3      | namesilo    |
+| law.exposed  | premium   | $260      | $260          | high           | medium | 3      | namecheap   |
+| abed.exposed | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo    |
+| man.exposed  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
+| abls.exposed | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo    |
+| pet.exposed  | premium   | $250      | $250          | high           | medium | 3      | name.com    |
+| acre.exposed | available | $22.49    | $22.49        | high           | low    | 4      | namesilo    |
+| sue.exposed  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| alir.exposed | available | $22.49    | $22.49        | medium         | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,801 live domains                        |
+| 1,000-row public sample | 23,140 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPOSED One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
